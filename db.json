@@ -2,5 +2,9 @@
   "users": [
     { "id": 1, "name": "Akash Kumar Singh"},
     { "id": 2, "name": "Surya"}
+  ],
+  "todo":[
+    {"id":1, "task":"Complete assignment"},
+    {"id":2, "task":"Revise Mocks"}
   ]
 }
